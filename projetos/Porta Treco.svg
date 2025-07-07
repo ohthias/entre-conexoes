@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="600mm"
+   height="400mm"
+   viewBox="0 0 600 400"
+   version="1.1"
+   id="svg19"
+   sodipodi:docname="Porta Treco.svg"
+   inkscape:version="1.2-alpha1 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview21"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.76145088"
+     inkscape:cx="520.71645"
+     inkscape:cy="332.26043"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3" />
+  <defs
+     id="defs16" />
+  <g
+     inkscape:label="Caixa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:power="100"
+     inkscape:feed="10"
+     inkscape:engrave="0"
+     inkscape:highlight-color="#e13535"
+     style="display:none">
+    <path
+       d="M 0.05,100.05 V 63.912 h 3 V 36.188 h -3 V 8.464 0.05 h 36.138 v 3 h 27.724 v -3 h 27.724 8.414 v 36.138 h -3 v 27.724 h 3 v 27.724 8.414 z"
+       id="front_outsideCutPath"
+       stroke="#FF0000"
+       stroke-width="0.1"
+       style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-opacity:1"
+       vector-effect="non-scaling-stroke"
+       inkscape:power="50"
+       inkscape:feed="50"
+       inkscape:engrave="0" />
+    <path
+       d="M 106.05,100.05 V 63.912 h -3 V 36.188 h 3 V 8.464 0.05 h 33.138 v 3 h 27.724 v -3 h 27.724 5.414 v 36.138 h 3 v 27.724 h -3 v 27.724 8.414 z"
+       id="left_outsideCutPath"
+       stroke="#FF0000"
+       stroke-width="0.1"
+       style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-opacity:1"
+       vector-effect="non-scaling-stroke"
+       inkscape:power="50"
+       inkscape:feed="50"
+       inkscape:engrave="0" />
+    <path
+       d="m 0.05,203.05 v -36.138 h 3 v -27.724 h -3 v -27.724 -8.414 h 36.138 v 3 h 27.724 v -3 h 27.724 8.414 v 36.138 h -3 v 27.724 h 3 v 27.724 8.414 z"
+       id="back_outsideCutPath"
+       stroke="#FF0000"
+       stroke-width="0.1"
+       style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-opacity:1"
+       vector-effect="non-scaling-stroke"
+       inkscape:power="50"
+       inkscape:feed="50"
+       inkscape:engrave="0" />
+    <path
+       d="m 106.05,203.05 v -36.138 h -3 v -27.724 h 3 v -27.724 -8.414 h 33.138 v 3 h 27.724 v -3 h 27.724 5.414 v 36.138 h 3 v 27.724 h -3 v 27.724 8.414 z"
+       id="right_outsideCutPath"
+       stroke="#FF0000"
+       stroke-width="0.1"
+       style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-opacity:1"
+       vector-effect="non-scaling-stroke"
+       inkscape:power="50"
+       inkscape:feed="50"
+       inkscape:engrave="0" />
+    <path
+       d="M 209.05,97.05 V 63.912 h -3 V 36.188 h 3 V 8.464 3.05 h 33.138 v -3 h 27.724 v 3 h 27.724 5.414 v 33.138 h 3 v 27.724 h -3 v 27.724 5.414 h -33.138 v 3 h -27.724 v -3 h -27.724 z"
+       id="bottom_outsideCutPath"
+       stroke="#FF0000"
+       stroke-width="0.1"
+       style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-opacity:1"
+       vector-effect="non-scaling-stroke"
+       inkscape:power="50"
+       inkscape:feed="50"
+       inkscape:engrave="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:power="100"
+     inkscape:feed="10"
+     inkscape:engrave="0"
+     inkscape:label="Caixa 2"
+     style="display:none">
+    <path
+       d="M 0.05,100.05 V 63.912 h 3 V 36.188 h -3 V 8.464 0.05 h 36.138 v 3 h 27.724 v -3 h 27.724 8.414 v 36.138 h -3 v 27.724 h 3 v 27.724 8.414 z"
+       id="front_outsideCutPath-9"
+       stroke="#FF0000"
+       stroke-width="0.1"
+       style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-opacity:1"
+       vector-effect="non-scaling-stroke"
+       inkscape:power="50"
+       inkscape:feed="50"
+       inkscape:engrave="0" />
+    <path
+       d="M 106.05,100.05 V 63.912 h -3 V 36.188 h 3 V 8.464 0.05 h 30.414 v 3 h 27.724 v -3 h 27.724 v 3 h 27.724 v -3 h 27.724 2.69 v 36.138 h 3 v 27.724 h -3 v 27.724 8.414 z"
+       id="left_outsideCutPath-7"
+       stroke="#FF0000"
+       stroke-width="0.1"
+       style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-opacity:1"
+       vector-effect="non-scaling-stroke"
+       inkscape:power="50"
+       inkscape:feed="50"
+       inkscape:engrave="0" />
+    <path
+       d="m 0.05,203.05 v -36.138 h 3 v -27.724 h -3 v -27.724 -8.414 h 36.138 v 3 h 27.724 v -3 h 27.724 8.414 v 36.138 h -3 v 27.724 h 3 v 27.724 8.414 z"
+       id="back_outsideCutPath-6"
+       stroke="#FF0000"
+       stroke-width="0.1"
+       style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-opacity:1"
+       vector-effect="non-scaling-stroke"
+       inkscape:power="50"
+       inkscape:feed="50"
+       inkscape:engrave="0" />
+    <path
+       d="m 106.05,203.05 v -36.138 h -3 v -27.724 h 3 v -27.724 -8.414 h 30.414 v 3 h 27.724 v -3 h 27.724 v 3 h 27.724 v -3 h 27.724 2.69 v 36.138 h 3 v 27.724 h -3 v 27.724 8.414 z"
+       id="right_outsideCutPath-4"
+       stroke="#FF0000"
+       stroke-width="0.1"
+       style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-opacity:1"
+       vector-effect="non-scaling-stroke"
+       inkscape:power="50"
+       inkscape:feed="50"
+       inkscape:engrave="0" />
+    <path
+       d="m 259.05,147.05 v -30.414 h -3 V 88.912 h 3 V 61.188 h -3 V 33.464 h 3 V 5.74 3.05 h 33.138 v -3 h 27.724 v 3 h 27.724 5.414 v 30.414 h 3 v 27.724 h -3 v 27.724 h 3 v 27.724 h -3 v 27.724 2.69 h -33.138 v 3 h -27.724 v -3 h -27.724 z"
+       id="bottom_outsideCutPath-2"
+       stroke="#FF0000"
+       stroke-width="0.1"
+       style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-opacity:1"
+       vector-effect="non-scaling-stroke"
+       inkscape:power="50"
+       inkscape:feed="50"
+       inkscape:engrave="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:power="100"
+     inkscape:feed="10"
+     inkscape:engrave="0"
+     inkscape:label="Caixa 3"
+     inkscape:highlight-color="#818181">
+    <path
+       d="M 0,100 V 63.862 H 3 V 36.138 H 0 V 8.414 0 H 26.138 V 3 H 53.862 V 0 H 80 v 36.138 h -3 v 27.724 h 3 V 91.586 100 Z"
+       id="front_outsideCutPath-7"
+       stroke="#FF0000"
+       stroke-width="0.1"
+       style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-opacity:1"
+       vector-effect="non-scaling-stroke"
+       inkscape:power="50"
+       inkscape:feed="50"
+       inkscape:engrave="0" />
+    <path
+       d="M 86,100 V 63.862 H 83 V 36.138 h 3 V 8.414 0 h 23.138 v 3 h 27.724 V 0 H 160 v 36.138 h 3 v 27.724 h -3 V 91.586 100 Z"
+       id="left_outsideCutPath-8"
+       stroke="#FF0000"
+       stroke-width="0.1"
+       style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-opacity:1"
+       vector-effect="non-scaling-stroke"
+       inkscape:power="50"
+       inkscape:feed="50"
+       inkscape:engrave="0" />
+    <path
+       d="M 0,203 V 166.862 H 3 V 139.138 H 0 V 111.414 103 h 26.138 v 3 h 27.724 v -3 H 80 v 36.138 h -3 v 27.724 h 3 V 194.586 203 Z"
+       id="back_outsideCutPath-9"
+       stroke="#FF0000"
+       stroke-width="0.1"
+       style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-opacity:1"
+       vector-effect="non-scaling-stroke"
+       inkscape:power="50"
+       inkscape:feed="50"
+       inkscape:engrave="0" />
+    <path
+       d="m 86,203 v -36.138 h -3 v -27.724 h 3 V 111.414 103 h 23.138 v 3 h 27.724 v -3 H 160 v 36.138 h 3 v 27.724 h -3 V 194.586 203 Z"
+       id="right_outsideCutPath-3"
+       stroke="#FF0000"
+       stroke-width="0.1"
+       style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-opacity:1"
+       vector-effect="non-scaling-stroke"
+       inkscape:power="50"
+       inkscape:feed="50"
+       inkscape:engrave="0" />
+    <path
+       d="M 169,77 V 53.862 h -3 V 26.138 h 3 V 3 h 23.138 V 0 h 27.724 V 3 H 243 v 23.138 h 3 v 27.724 h -3 V 77 h -23.138 v 3 h -27.724 v -3 z"
+       id="bottom_outsideCutPath-7"
+       stroke="#FF0000"
+       stroke-width="0.1"
+       style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-opacity:1"
+       vector-effect="non-scaling-stroke"
+       inkscape:power="50"
+       inkscape:feed="50"
+       inkscape:engrave="0" />
+  </g>
+</svg>
